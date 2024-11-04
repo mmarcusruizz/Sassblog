@@ -1,0 +1,25 @@
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+    margin: 30px;
+    margin-left: 80px; 
+  
+    img { 
+      width: 30px;
+      border-radius: 50px;
+    }
+  
+    &.big {
+      width: 60px;
+      height: auto;
+      border-radius: 20px;
+    }
+  }

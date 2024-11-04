@@ -1,0 +1,21 @@
+body {
+    font-family: $font-family;
+  }
+  
+  h1 {
+    padding-left: 10px;
+  }
+  
+  h2 {
+    margin-left: 80px;
+  }
+  
+  .form p, 
+  .a a,
+  .b p {
+    font-family: $font-family;
+  }
+  
+  a {
+    text-decoration: none;
+  }

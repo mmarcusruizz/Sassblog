@@ -1,0 +1,8 @@
+section {
+    display: flex;
+    margin: 20px 60px;
+  
+    @media screen and (max-width: 720px) {
+      flex-direction: column;
+    }
+  }

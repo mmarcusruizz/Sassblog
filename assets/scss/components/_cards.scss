@@ -1,0 +1,41 @@
+.card_cont_img{
+    width: 25vw;
+    height: 13vw;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+.card_contlogo_img{
+    width: 50px;
+    border-radius: 50px;
+}
+
+.card_contlogo{
+    display: flex;
+    align-items: center;
+}
+
+.card_cont h5{
+    font-weight: 700;
+    font-size: large;
+}
+
+.card_cont p{
+    font-weight: 400;
+}
+
+.section1_box h4{
+    font-weight: 700;
+}
+
+.card_contlogo p{
+    padding-left: 10px;
+    font-weight: 500;
+}

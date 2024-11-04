@@ -1,0 +1,39 @@
+.information{
+    display: flex;
+    flex-direction: column;
+    background-color: #CCD1D1;
+    align-items: center;
+}
+
+.information img{
+    width: 80%;
+    border-radius: 30px;
+}
+
+.information p{
+    margin: 30px;
+}
+
+.precard{
+    display: inline;
+}
+
+.titulos_relacionados{
+    margin-left: 60px;
+    font-weight: 700;
+    font-size: large;
+}
+
+.titulopost{
+    display: flex;
+    flex-direction: column;
+    
+    .titulopost_p{
+        font-weight: 700;
+        font-size: larger;
+    }
+}
+
+.apaginaprincipal{
+    margin-left: 60px;
+}
